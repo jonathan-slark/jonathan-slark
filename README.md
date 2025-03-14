@@ -1,6 +1,6 @@
-# Jonathan Slark – Games Programmer
+# Jonathan Slark – Game programmer
 
-Welcome to my GitHub portfolio! I'm a games programmer with a focus on performance-oriented C programming and modern graphics APIs. My work spans from retro-inspired games to graphics programming and game modding.
+Welcome to my GitHub portfolio! I'm a game programmer with a focus on performance-oriented C programming and modern graphics APIs. My work spans from retro-inspired games to graphics programming and game modding.
 
 ## 🚀 Projects
 
