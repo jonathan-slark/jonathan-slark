@@ -10,8 +10,8 @@ Hello and welcome to my GitHub portfolio! I’m Jonathan Slark, a game programme
 - **[bloc](https://github.com/jonathan-slark/bloc) (2012)** – My debut game: a falling blocks game inspired by the classic.
 
 ### 🖥️ Graphics Programming
-- **[vulkan-triangle](https://github.com/jonathan-slark/vulkan-triangle) (2024)** – A minimal Vulkan setup showcasing a simple triangle.
-- **[opengl-triangle](https://github.com/jonathan-slark/opengl_triangle) (2024)** – A similar concept implemented using OpenGL.
+- **[opengl-triangle](https://github.com/jonathan-slark/opengl_triangle) (2024)** – A minimal OpenGL example that renders a triangle.
+- **[vulkan-triangle](https://github.com/jonathan-slark/vulkan-triangle) (2024)** – A similar concept implemented using Vulkan.
 
 ### 🎮 Game Mods
 - **Scrap Zapper 2 (2024)** – A refined and expanded quality-of-life mod for Fallout 4.
