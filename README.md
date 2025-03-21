@@ -24,8 +24,8 @@ Hello and welcome to my GitHub portfolio! I’m Jonathan Slark, a game programme
 
 ## 🎮 Game Industry Experience
 
-- **Jagex – RuneScape (2003-2004):** Content Developer; created quests and the original version of the [Duel Arena](https://runescape.wiki/w/Duel_Arena).
-- **h2g2 – Unreleased Hitchhiker's Guide to the Galaxy game (2000-2001):** Designed and developed the save game system.
+- **Jagex – RuneScape (2003-2004):** Content Developer; created quests and the original version of the [🔗 Duel Arena](https://runescape.wiki/w/Duel_Arena).
+- **The Digital Village – Unreleased Hitchhiker's Guide to the Galaxy game (1999-2000):** Designed and developed the save game system.
 
 ## 🎯 What I'm Working On
 
