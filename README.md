@@ -1,19 +1,16 @@
-# Jonathan Slark – Game Programmer
+# Jonathan Slark - Games Programmer
 
-Hello and welcome to my GitHub portfolio! I’m Jonathan Slark, a game programmer focused on performance-driven C programming and modern graphics APIs. My work spans retro-inspired games, cutting-edge graphics programming, and innovative game mods.
+I'm a solo games programmer working my way towards releasing a commercial game. I plan to work with an graphics artist and possibly audio engineer.
 
-## 🚀 Projects
+## Route Back to Games Progamming
 
-### 🕹️ Games
-- **Pac-man-style game (2024, in progress)** – A faithful homage to the original, featuring my own twist on the classic mechanics.
-- **Breakout-style game (2024, in progress)** – A modern reinterpretation of the classic arcade favorite.
-- **[bloc](https://github.com/jonathan-slark/bloc) (2012)** – My debut game: a falling blocks game inspired by the classic.
+1. **[vulkan-triangle](https://github.com/jonathan-slark/vulkan-triangle) (2024)** – Test using low level APIs.
+2. **[opengl-triangle](https://github.com/jonathan-slark/opengl_triangle) (2024)** – OpenGL test for a higher level API.
+3. **Break Bricks (2025)** – Finished a complete game with my own batched OpenGL renderer.
+4. **Maze Muncher (2025, in progress)** – A complete game using Raylib to avoid time writing subsystems.
 
-### 🖥️ Graphics Programming
-- **[opengl-triangle](https://github.com/jonathan-slark/opengl_triangle) (2024)** – A minimal OpenGL example that renders a triangle.
-- **[vulkan-triangle](https://github.com/jonathan-slark/vulkan-triangle) (2024)** – A similar concept implemented using Vulkan.
+## Game Mods
 
-### 🎮 Game Mods
 - **Scrap Zapper 2 (2024)** – A refined and expanded quality-of-life mod for Fallout 4.
   [🔗 Nexus Mods](https://www.nexusmods.com/fallout4/mods/77107)
 - **Scrap Zapper (2018)** – An earlier quality-of-life mod for Fallout 4.
@@ -22,13 +19,11 @@ Hello and welcome to my GitHub portfolio! I’m Jonathan Slark, a game programme
   [🔗 CurseForge](https://www.curseforge.com/wow/addons/crafty)
 - **[Crunchy's Scripts](https://github.com/jonathan-slark/crunchys-scripts) (1999-2000)** – HUD mods for Starsiege: Tribes.
 
-## 🎮 Game Industry Experience
+## Past Games
+
+- **[bloc](https://github.com/jonathan-slark/bloc) (2012)** – My first finished game: a falling blocks game inspired by the classic.
+
+## Past Games Industry Experience
 
 - **Jagex – RuneScape (2003-2004):** Content Developer; created quests and the original version of the [🔗 Duel Arena](https://runescape.wiki/w/Duel_Arena).
 - **The Digital Village – Unreleased Hitchhiker's Guide to the Galaxy game (1999-2000):** Designed and developed the save game system.
-
-## 🎯 What I'm Working On
-
-I’m currently developing new games and transitioning to 3D assets with a top-down view, all while preserving a 2D-style gameplay experience. My upcoming projects will emphasize high-quality rendering and dynamic lighting.
-
-Feel free to explore my projects and get in touch!
