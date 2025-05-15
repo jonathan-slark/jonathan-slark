@@ -12,7 +12,7 @@ My long-term goal is to release a commercial-quality game. Whether I continue bu
 |------|---------|-------------|
 | 2024 | [vulkan-triangle](https://github.com/jonathan-slark/vulkan-triangle) | Testing low-level APIs and graphics setup in Vulkan. |
 | 2024 | [opengl-triangle](https://github.com/jonathan-slark/opengl_triangle) | Exploring higher-level graphics programming with OpenGL. |
-| 2025 | [Break Bricks](https://github.com/jonathan-slark/break-bricks/) | A complete breakout-style game with a custom OpenGL 3.3 batched renderer. [📝 Devlog](https://github.com/jonathan-slark/break-bricks/blob/main/DEVLOG.md) |
+| 2025 | [Break Bricks](https://github.com/jonathan-slark/break-bricks/) | A complete breakout-style game with a custom OpenGL 3.3 batched renderer. [📝 Devlog](https://github.com/jonathan-slark/break-bricks/blob/master/DEVLOG.md) |
 | 2025 | **Maze Muncher** *(in progress)* | A Raylib-powered desktop game — focused on gameplay and polish over engine-building. |
 
 ---
