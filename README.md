@@ -9,10 +9,8 @@ I believe in finishing games, keeping the code understandable, and focusing on g
 [Download on itch.io](https://jonathan-slark.itch.io/mythic-dash)
 
 ### Previous Games
-- **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) —   
-Breakout-style game with a custom OpenGL renderer.
-- **[bloc](https://github.com/jonathan-slark/bloc)** (2012) — My first finished  
-game, a falling block puzzler.
+- **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) — Breakout-style game with a custom OpenGL renderer.
+- **[bloc](https://github.com/jonathan-slark/bloc)** (2012) — My first finished game, a falling block puzzler.
 
 ### Games Industry Experience
 - **Jagex – RuneScape** (2003–2004): Content Developer – Created quests and the  
@@ -21,10 +19,8 @@ original Duel Arena.
 unreleased *Hitchhiker’s Guide to the Galaxy* game.
 
 ### Modding Work
-- **Scrap Zapper 2** – Quality-of-life mod for Fallout 4 [](https://www.         
-nexusmods.com/fallout4/mods/77107)
-- **Crafty** – World of Warcraft crafting mod [](https://www.curseforge.com/wow//
-addons/crafty)
+- **Scrap Zapper 2** – Quality-of-life mod for Fallout 4 [](https://www.nexusmods.com/fallout4/mods/77107)
+- **Crafty** – World of Warcraft crafting mod [](https://www.curseforge.com/wow/addons/crafty)
 - Older mods for Starsiege: Tribes
 
 ---
