@@ -1,17 +1,12 @@
 # 👋 Jonathan Slark – Games Programmer
 
-Hi, I’m Jonathan. I’m working my way back into games development with the goal   
-of launching fun, polished, small-scale commercial games.
+Hi, I’m Jonathan. I’m working my way back into games development with the goal of launching fun, polished, small-scale commercial games.
 
-I believe in finishing games, keeping the code understandable, and focusing on   
-gameplay over engine heroics. Currently using **Raylib** so I can actually ship  
-things instead of fighting renderers.
+I believe in finishing games, keeping the code understandable, and focusing on gameplay over engine heroics. Currently using **Raylib** so I can actually ship things instead of fighting renderers.
 
 ### Current Project
-**Mythic Dash** (2026) — An arcade-style dungeon dash inspired by Southeast      
-Asian myths.
-[Play on itch.io](https://jonathan-slark.itch.io/mythic-dash) | [Repository](....
-)
+**Mythic Dash** (2026) — An arcade-style dungeon dash inspired by Southeast Asian myths.
+[Download on itch.io](https://jonathan-slark.itch.io/mythic-dash)
 
 ### Previous Games
 - **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) —   
@@ -35,4 +30,4 @@ addons/crafty)
 ---
 
 **Curious about my full journey back into game dev?**
-Check out my [Dev Blog: From Vulkan to Raylib](/blog/journey.md).
+Check out my [Dev Blog: From Vulkan to Raylib](blog/journey.md).
