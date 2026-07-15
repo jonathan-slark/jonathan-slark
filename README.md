@@ -18,7 +18,7 @@ I believe in finishing games, keeping the code understandable, and focusing on g
 
 ### Modding Work
 - **Scrap Zapper 2** — Quality-of-life mod for Fallout 4 [🔗 Nexus Mods](https://www.nexusmods.com/fallout4/mods/77107)
-- **Crafty** — World of Warcraft crafting mod [🔗 Nexus Mods](https://www.curseforge.com/wow/addons/crafty)
+- **Crafty** — World of Warcraft crafting mod [🔗 CurseForge](https://www.curseforge.com/wow/addons/crafty)
 - [**Crunchy's Scripts**](https://github.com/jonathan-slark/crunchys-scripts) — Older mods for Starsiege: Tribes
 
 ---
