@@ -6,7 +6,7 @@ I believe in finishing games, keeping the code understandable, and focusing on g
 
 ### Current Project
 **Mythic Dash** (2026) — An arcade-style dungeon dash inspired by Southeast Asian myths.
-[Download on itch.io](https://jonathan-slark.itch.io/mythic-dash)
+[Download on itch.io](https://jonathan-slark.itch.io/mythic-dash) | [🔗 Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
 
 ### Previous Games
 - **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) — Breakout-style game with a custom OpenGL renderer.
