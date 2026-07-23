@@ -5,7 +5,7 @@ Hi, I’m Jonathan. I’m working my way back into games development with the go
 I believe in finishing games, keeping the code understandable, and focusing on gameplay over engine heroics. Currently using **C23 + Raylib** so I can actually ship things instead of fighting renderers.
 
 ### Current Project
-**Mythic Dash** (2026) — An fast-paced maze chase game inspired by Southeast Asian myths and with dungeon-crawling elements.  
+**Mythic Dash** (2026) — A fast-paced maze chase game inspired by Southeast Asian myths and with dungeon-crawling elements.  
 [🔗 Download on itch.io](https://jonathan-slark.itch.io/mythic-dash) | [🔗 Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
 
 ### Previous Games
