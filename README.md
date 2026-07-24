@@ -6,7 +6,7 @@ I believe in finishing games, keeping the code understandable, and focusing on g
 
 ### Current Project
 **Mythic Dash** (2026) — A fast-paced maze chase game inspired by Southeast Asian myths and with dungeon-crawling elements.  
-[🔗 Download on itch.io](https://jonathan-slark.itch.io/mythic-dash) | [🔗 Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
+[🔗 Download on itch.io for free](https://jonathan-slark.itch.io/mythic-dash) | [🔗 Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
 
 ### Previous Games
 - **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) — Breakout-style game with a custom OpenGL renderer.
