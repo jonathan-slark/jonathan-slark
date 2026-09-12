@@ -2,13 +2,14 @@
 
 Hi, I’m Jonathan. I’m working my way back into games development with the goal of launching fun, polished, small-scale commercial games.
 
-I believe in finishing games, keeping the code understandable, and focusing on gameplay over engine heroics. Currently using **Raylib** so I can actually ship things instead of fighting renderers.
+I believe in finishing games, keeping the code understandable, and focusing on gameplay over engine heroics. Currently using **C23 + SDL3** so I can write solid, reusable code and ship to Windows, Linux, and the web.
 
 ### Current Project
-**Mythic Dash** (2026) — An arcade-style dungeon dash inspired by Southeast Asian myths.
-[Download on itch.io](https://jonathan-slark.itch.io/mythic-dash)
+**Clean Kill** (in development) — A top-down zombie shooter with the gunplay of a modern FPS. Your cursor is the gun: land the headshot, feel it pop.
+[Follow on itch.io](https://jonathan-slark.itch.io/clean-kill)
 
-### Previous Games
+### Released Games
+- **[Mythic Dash](https://jonathan-slark.itch.io/mythic-dash)** (2026) — A fast-paced maze chase hunted by creatures from Philippine folklore. Free in browser.
 - **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) — Breakout-style game with a custom OpenGL renderer.
 - **[bloc](https://github.com/jonathan-slark/bloc)** (2012) — My first finished game, a falling block puzzler.
 
@@ -26,4 +27,4 @@ unreleased *Hitchhiker’s Guide to the Galaxy* game.
 ---
 
 **Curious about my full journey back into game dev?**
-Check out my [Dev Blog: From Vulkan to Raylib](blog/journey.md).
+Check out my [Dev Blog: My Path Back into Game Development](blog/journey.md).

@@ -1,4 +1,4 @@
-# From Vulkan to Raylib: My Path Back into Game Development
+# From Vulkan to SDL3: My Path Back into Game Development
 
 Hi, I’m Jonathan. After a long break, I’m working my way back into games development. My goal is simple: finish good games and actually release them.
 
@@ -18,12 +18,20 @@ At this point I had a realisation: unless your dream is to be a graphics program
 
 Enter **Raylib**. It’s simple, easy to use, and gets out of the way. For my third game, **Mythic Dash**, I switched to Raylib so I could finally focus on gameplay, polish, and actually finishing the damn thing.
 
-Mythic Dash started as a simple maze runner using Shade’s excellent Southeast Asian myth assets. It evolved into a hybrid arcade dungeon dash with multiple difficulty levels and progression. I’m really happy with how it turned out.
+Mythic Dash started as a simple maze runner using Shade’s excellent Philippine mythological creature sprites. It evolved into a maze chase hunted by creatures from Philippine folklore — with dungeon-crawler twists like traps, keys and locked doors. It shipped in 2026 — free in the browser — and I’m really happy with how it turned out.
 
 ---
 
-### Looking Ahead
+### The Fourth Game
 
-I’ve got plenty of ideas for the next game. The hard part, as always, is picking something achievable in a reasonable timeframe. But I’m in a much better place now — I have a workflow that lets me actually ship games instead of fighting technology.
+Shipping three games taught me a lot, but for the fourth I wanted to stop making learning projects and start building something I actually wanted to play — a real, commercial game. That meant two changes.
+
+First, the technology. Raylib had served me well — it’s raw, lean, and great for getting something on screen fast — but it doesn’t suit the way I like to work. For this game I switched to **SDL3**. I daily-drive Ubuntu, and SDL3’s Wayland support is simply better. More importantly, SDL3 suits my style: solid, reusable code, with stricter error checking to back it up.
+
+Second, the game itself. **Clean Kill** is a top-down zombie shooter with the gunplay of a modern FPS. Your cursor is the gun: land the headshot and it pops — hit-stop, screen shake, and a real 9mm gunshot. A heavy metal soundtrack, two enemy types that force target priority, and a boss you have to learn. No power-ups, no stat grinding — you get better, not the game.
+
+Before committing, I ran a spike test to prove the stack: SDL3 building for Windows, Linux, and the web via Emscripten, with a fixed-timestep loop, sprite rendering, audio mixing, text, and a Tiled level loader. It all worked — and more importantly, it was fun. The gun sounds and soundtrack fit the graphic-novel art perfectly.
+
+Clean Kill is in development now. The coming-soon page is live on itch.io with devlogs, and a free demo is on the way before the full game.
 
 If you’re a solo dev, aspiring game programmer, or just curious about the journey from low-level graphics experiments to “I just want to make games” — feel free to say hi!
