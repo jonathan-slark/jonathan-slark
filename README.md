@@ -6,10 +6,10 @@ I believe in finishing games, keeping the code understandable, and focusing on g
 
 ### Current Project
 **Clean Kill** (in development) — A top-down zombie shooter with the gunplay of a modern FPS. Your cursor is the gun: land the headshot, feel it pop.
-[Follow on itch.io](https://jonathan-slark.itch.io/clean-kill)
+[🔗 Follow on itch.io](https://jonathan-slark.itch.io/clean-kill)
 
 ### Released Games
-- **[Mythic Dash](https://jonathan-slark.itch.io/mythic-dash)** (2026) — A fast-paced maze chase hunted by creatures from Philippine folklore. Free in browser. [Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
+- **[Mythic Dash](https://jonathan-slark.itch.io/mythic-dash)** (2026) — A fast-paced maze chase hunted by creatures from Philippine folklore. Free in browser. [🔗 Postmortem dev log](https://jonathan-slark.itch.io/mythic-dash/devlog/1591329/postmortem)
 - **[Break Bricks](https://github.com/jonathan-slark/break-bricks/)** (2025) — Breakout-style game with a custom OpenGL renderer.
 - **[bloc](https://github.com/jonathan-slark/bloc)** (2012) — My first finished game, a falling block puzzler.
 
