@@ -2,7 +2,7 @@
 
 Hi, I’m Jonathan. After a long break, I’m working my way back into games development. My goal is simple: finish good games and actually release them.
 
-A while back I read that a solid way to get back into it is to complete three games. The first should be something basic — so I made **bloc**, a falling block puzzler with levels, sound, music, high scores and menus. It’s nothing revolutionary, but I finished it. That felt good.
+A while back I read that a solid way to get back into it is to complete three games. The first should be something basic — so I made **[bloc](https://github.com/jonathan-slark/bloc)**, a falling block puzzler with levels, sound, music, high scores and menus. It’s nothing revolutionary, but I finished it. That felt good.
 
 Then life happened and I took a break.
 
@@ -10,9 +10,9 @@ When I returned, I wanted to rethink *how* I was building games. My first game u
 
 So the question became: how low can I go?
 
-I tried **Vulkan**. I completed a triangle demo… and wow, it’s brutal unless you actually want to be a graphics programmer. I was just making a mess of myself.
+I tried **[Vulkan](https://github.com/jonathan-slark/vulkan-triangle)**. I completed a triangle demo… and wow, it’s brutal unless you actually want to be a graphics programmer. I was just making a mess of myself.
 
-Next I tried **OpenGL**. Much more reasonable. I did the triangle demo and used it for my second game — **Break Bricks**, a modern breakout-style game with a custom batched renderer. It was a much bigger challenge than I expected. Writing your own graphics engine is hard. Nothing kills motivation faster than spending hours debugging just to get a black screen.
+Next I tried **[OpenGL](https://github.com/jonathan-slark/opengl_triangle)**. Much more reasonable. I did the triangle demo and used it for my second game — **[Break Bricks](https://github.com/jonathan-slark/break-bricks)**, a modern breakout-style game with a custom batched renderer. It was a much bigger challenge than I expected. Writing your own graphics engine is hard. Nothing kills motivation faster than spending hours debugging just to get a black screen.
 
 At this point I had a realisation: unless your dream is to be a graphics programmer, building a full engine from scratch is probably not the best use of your time as a solo dev.
 
